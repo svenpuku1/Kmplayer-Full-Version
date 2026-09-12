@@ -245,3 +245,6 @@ This repository serves as the official landing page for KMPlayer. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of KMPlayer today!**
+
+---
+**Last updated:** 2026-09-12 16:37:44 UTC
