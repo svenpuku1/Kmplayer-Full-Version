@@ -247,4 +247,4 @@ This repository serves as the official landing page for KMPlayer. The software i
 **Get the most recent version of KMPlayer today!**
 
 ---
-**Last updated:** 2026-11-02 11:47:33 UTC
+**Last updated:** 2026-11-02 21:00:01 UTC
